@@ -1,5 +1,7 @@
+{
 "data": [
    { "title": "Trip on platform", "date": "03/03/2019", "description": "Frank jones tripped on a corroded area of unit 21" },
                 { "title": "Cut hand on LCV", "date": "21/04/2018", "description": "James Smith was carrying out a repair to the leaking lcv in unit 20 when the spring unloaded and lacerated his left hand" },
                 { "title": "Incident 3", "date": "12/12/2018", "description": "this is a test incident" }
   ],
+}
