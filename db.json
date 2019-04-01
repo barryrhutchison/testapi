@@ -4,7 +4,8 @@
 			"date": "03/03/2019",
 			"description": "Frank jones tripped on a corroded area of unit 24",
 			"type": "area",
-			"lessons": 0
+			"lessons": 0,
+			"id": 26
 		},
 		{
 			"title": "Cut hand on LCV",
